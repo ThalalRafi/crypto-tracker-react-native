@@ -1,5 +1,7 @@
 # Crypto Tracker
 
+![Crypto Tracker screenshot](screenshot.jpg)
+
 A React Native mobile app that shows live Bitcoin and Ethereum prices. Built with Expo and TypeScript as my first React Native project.
 
 ## Features
